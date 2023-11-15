@@ -36,18 +36,18 @@
     },
     "packageB": {
       "Package": "packageB",
-      "Version": "0.4.0",
+      "Version": "0.4.1",
       "Source": "Repository",
       "Repository": "Internal CRAN",
       "Requirements": [
         "glue",
         "packageA"
       ],
-      "Hash": "f2067a51cde02c4ad203e8341b6c0344"
+      "Hash": "61863a698229c4959c1bef2de54b2777"
     },
     "packageC": {
       "Package": "packageC",
-      "Version": "0.1.0",
+      "Version": "0.1.2",
       "Source": "Repository",
       "Repository": "Internal CRAN",
       "Requirements": [
@@ -55,7 +55,7 @@
         "packageA",
         "packageB"
       ],
-      "Hash": "26a1c94b873247598060933755fe964a"
+      "Hash": "94e397c4aeaa6eecdb213eb95fa4b3ae"
     },
     "renv": {
       "Package": "renv",
