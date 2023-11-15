@@ -1,4 +1,5 @@
 library(packageA)
 library(packageB)
-library(packageC)
+
+packageC::add_eight(2)
 
